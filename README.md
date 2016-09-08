@@ -10,3 +10,6 @@ How to use
 
 Run clip [-b ] offset[K|M|s] length[K|M|s]|´end´ infile.mp3 outfile.mp3.
 Clip will copy the middle of infile.mp3 and save it to outfile.mp3. Simple! 
+
+Copyright © 2001, 2007 Ole Dahle & Jan Kroken.
+Clip is free software. The source code is released under the GNU General Public Licence (GPL).
